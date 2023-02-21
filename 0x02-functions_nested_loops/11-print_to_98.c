@@ -2,8 +2,8 @@
 #include "6-abs.c"
 #include <stdio.h>
 /**
- *@i print function
- *@j print function
+ *@n: integer to get natural numbers
+ *Print the last number
  **/
 void print_to_98(int n)
 {

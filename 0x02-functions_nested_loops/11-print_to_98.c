@@ -2,8 +2,8 @@
 #include "6-abs.c"
 #include <stdio.h>
 /**
- *function that prints all natural numbers from n to 98
- *
+ *@i print function
+ *@j print function
  **/
 void print_to_98(int n)
 {

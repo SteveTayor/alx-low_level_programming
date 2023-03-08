@@ -1,4 +1,4 @@
-#imclude "main.h"
+
 /**
  * print_chessboard - prints board
  * @a: prints a characters

@@ -15,11 +15,6 @@ void set_string(char **s, char *to);
  */
 void print_diagsums(int *a, int size);
 
-/**
- * print_chessboard - prints board
- * @a: prints a characters
- *
- */
 void print_chessboard(char (*a)[8]);
 
 /**

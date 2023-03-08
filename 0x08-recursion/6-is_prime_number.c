@@ -1,13 +1,13 @@
 #include <stdio.h>
 /**
- * find_prime - finds out if a number is prime recursively
+ * prime_finder - finds out if a number is prime recursively
  *
  * @x: number to determine if prime
  * @y: number to check if divisor
  *
  * Return: 1 if prime, 0 otherwise
  */
-int find_prime(int x, int y)
+int prime_finder(int x, int y)
 {
 	if (x == y)
 		return (1);
@@ -26,5 +26,5 @@ int is_prime_number(int n)
 {
 	if (n < 2)
 		return (0);
-	return (find_prime(n, 2));
+	return (prime_finder(n, 2));
 }

@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * set_string -  sets a string
  * @s: string to set

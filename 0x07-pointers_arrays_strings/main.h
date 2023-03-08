@@ -2,7 +2,7 @@
 #define _MAIN_H_
 
 /**
- * set_string - sets string to something
+ * set_string - sets the value of a pointer to a char
  * @s: string to set to
  * @to: set to
  */

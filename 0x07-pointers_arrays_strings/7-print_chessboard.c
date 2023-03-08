@@ -1,10 +1,10 @@
+
 /**
- * print_chessboard - board to print
- * @a: prints things
- * Return: returns crap
+ * print_chessboard - prints board
+ * @a: prints a characters
+ *
  */
-void print_chessboard(char (*a)[8])
-{
+void print_chessboard(char (*a)[8]){
 	int i;
 	int j;
 
